@@ -1,0 +1,10 @@
+*~
+*.bak
+*.log
+
+*.py[cod]
+__pycache__/
+
+*.calltree
+*.profile
+*.lprof
